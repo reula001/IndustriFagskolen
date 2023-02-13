@@ -1,7 +1,20 @@
 # Industri-Fagskolen
 
-# Test
+## Test
 * Dette ser ut til å fungere
+
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Industri-Fagskolen](#-industri-fagskolen-)
+  - [Test](#-test-)
+  - [FLow chart test](#-flow-chart-test-)
+  - [Structured text test](#-structured-text-test-)
+
+<!-- /code_chunk_output -->
+
 
 ```Csharp
 btest := TRUE;
@@ -26,3 +39,10 @@ IF _bTest THEN
 END_IF;
 ```
 
+```wavedrom
+{signal: [
+	{
+		name: 'scl',
+		wave: '1.01010101010'
+	}
+]}
