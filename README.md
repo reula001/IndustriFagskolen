@@ -1,4 +1,4 @@
-# Industri-Fagskolen
+# IndustriFagskolen
 
 ## Test
 * Dette ser ut til å fungere
@@ -8,7 +8,7 @@
 
 <!-- code_chunk_output -->
 
-- [Industri-Fagskolen](#-industri-fagskolen-)
+- [IndustriFagskolen](#-industrifagskolen-)
   - [Test](#-test-)
   - [FLow chart test](#-flow-chart-test-)
   - [Structured text test](#-structured-text-test-)
