@@ -2,7 +2,7 @@
 
 ## Test
 * Dette ser ut til å fungere
-
+Trykk på Ctrl+K og deretter V for å åpne HTML preview.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
